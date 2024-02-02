@@ -23,4 +23,4 @@ Servidor apache, php >= 8.0 e seja feliz :D
 
 
 ---
-⌨️ with ❤️ by [Augsec](https://github.com/augsec) 😊
+⌨️ with ❤️ by [Augsec](https://github.com/augsec)
