@@ -1,6 +1,6 @@
-# QR Code estático PIX - Payload
+# QR Code PIX - Payload
 
-Exemplo de implementação QR Code estático PIX através de Payload
+Exemplo de implementação QR Code PIX através de Payload
 
 ## 🧪 Vamos lá
 
